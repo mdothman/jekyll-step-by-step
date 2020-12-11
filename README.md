@@ -1,4 +1,4 @@
-# __Jekyll-Step-By_Step__
+# __Jekyll-Step-By-Step__
 
 ## User Story
   * __AS A WEB DEVELOPER__ in order to be able to retain the information I absorb I must understand basic fundamentals of Jekyll.
