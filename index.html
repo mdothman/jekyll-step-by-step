@@ -1,12 +1,17 @@
 ---
+number: 5
+title: home
+header: "hello world"
+layout: default
 ---
 <!doctype html>
 <html>
   <head>
     <meta charset="utf-8">
-    <title>{{ "Home"| capitalize}}</title>
+    <title>{{page.title}}</title>
   </head>
   <body>
-    <h1>{{"Hello World"|downcase}}</h1>
+    <h1>{{page.header}}</h1>
+    <p>{{page.number}}</p>
   </body>
 </html>
